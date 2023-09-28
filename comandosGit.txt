@@ -1,0 +1,5 @@
+Para iniciar o git em um repositório - git init
+
+Para adicionar um arquivo a area de staging - git add nome-do-arquivo ou git add .
+
+Para efetivar uma arquivo comentando a alteracao - git commit -m "nome-da-alteracao"
